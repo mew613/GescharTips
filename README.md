@@ -1,2 +1,2 @@
 # GescharTips
-Tips for iOS app Geschar
+iOS で動作する掲示板ブラウザ Geschar の便利情報
